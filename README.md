@@ -1,3 +1,3 @@
 # recipeasier
-![Alt text](screenshots/index.png?raw=true "Title")
-![Alt text](screenshots/fasule.png?raw=true "Title")
+![Index](screenshots/screenshot_153.png?raw=true "Index")
+![Fasule](screenshots/screenhost_154.png?raw=true "Fasule")
