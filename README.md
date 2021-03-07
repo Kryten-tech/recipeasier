@@ -1,2 +1,2 @@
 # recipeasier
-![Index](/screenshots/screenshot_153.png)
+![Index](screenshots/screenshot_153.png)
